@@ -1,2 +1,2 @@
 # real-world-app
-build the app and run the image in the container
+build the app and run the image in the container by using docker

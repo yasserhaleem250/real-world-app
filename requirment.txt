@@ -1,0 +1,4 @@
+flask==2.0.1
+redis==4.3.4
+mysql-connector-python==8.0.28
+python-dotenv==0.19.2
